@@ -52,5 +52,4 @@ func main() {
 		g.Run(goFunc)
 	}
 	wg.Wait()
-
 }
